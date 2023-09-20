@@ -13,5 +13,4 @@ function fibonacci($n) {
     }
 }
   
-$n = 15;
-fibonacci($n);
+fibonacci(15);
